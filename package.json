@@ -1,0 +1,14 @@
+{
+  "name": "redbus-clone",
+  "version": "1.0.0",
+  "description": "In this project user has to clone the homepage of the popular website redbus.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "manish mandal",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
